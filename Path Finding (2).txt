@@ -1,0 +1,27 @@
+Хранение графов:
+https://habr.com/ru/post/469967/
+
+Поиск пути на дискретном поле:
+https://habr.com/ru/post/331192/
+
+Поиск в ширину и глубину:
+https://evileg.com/ru/post/512/
+https://evileg.com/ru/post/494/
+https://e-maxx.ru/algo/dfs
+https://e-maxx.ru/algo/bfs
+https://habr.com/ru/post/469967/
+
+Алгоритм Дейкстры (лучше воспринимать как модификацию поиска в ширину, чем независимо):
+https://informatics.mccme.ru/mod/statements/view3.php?id=193&chapterid=1967
+https://informatics.mccme.ru/mod/statements/view3.php?id=10031&chapterid=96
+https://informatics.mccme.ru/mod/statements/view3.php?id=10031&chapterid=98
+https://prog-cpp.ru/deikstra/
+https://e-maxx.ru/algo/dijkstra
+https://www.e-olymp.com/ru/blogs/posts/21
+
+Беллман-Форд:
+https://www.youtube.com/watch?v=hxMWBBCpR6A
+https://www.geeksforgeeks.org/bellman-ford-algorithm-simple-implementation/
+https://informatics.mccme.ru/mod/statements/view.php?id=10844
+https://e-maxx.ru/algo/ford_bellman
+https://habr.com/ru/post/201588/

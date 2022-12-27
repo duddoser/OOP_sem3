@@ -1,0 +1,3 @@
+https://www.youtube.com/watch?v=u9NigdVHUr0
+http://algolist.manual.ru/maths/graphs/maxflows/Ford_Fulkerson.php
+http://algolist.manual.ru/maths/graphs/maxflows/
